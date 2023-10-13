@@ -13,10 +13,7 @@ import java.util.concurrent.Semaphore;
 
 import UserInterface.MainUI;
 
-/**
- *
- * @author Rolando
- */
+
 public class VideoGameStudio {
     private String name;
     //Workers

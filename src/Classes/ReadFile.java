@@ -13,10 +13,7 @@ import java.io.PrintWriter;
 import javax.swing.JOptionPane;
 
 
-/**
- *
- * @author Rolando Sorrentino
- */
+
 public class ReadFile {
    
     /**

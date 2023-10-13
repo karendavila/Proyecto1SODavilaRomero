@@ -8,10 +8,7 @@ package Classes;
 
 import UserInterface.MainUI;
 
-/**
- *
- * @author Rolando
- */
+
 public class Drive {
     public int chasisQty;
     public int carBodyQty;
