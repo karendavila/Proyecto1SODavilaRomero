@@ -9,7 +9,7 @@ package Classes;
  *
  * @author Admin
  */
-public class Proyecto1SODavilaRomero {
+public class Main {
 
     /**
      * @param args the command line arguments
